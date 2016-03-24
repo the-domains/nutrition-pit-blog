@@ -1,4 +1,4 @@
-name: 'Nutrition Pit Blog '
+name: 'Nutrition Pit  '
 favicon: null
 layout_spectrum: 0.7549344694707543
 typography_spectrum: 0.6007666373625398
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#ffffff'
+    - '#040404'
+    - '#fd0304'
+    - '#5a5a5a'
+    - '#ff9f9f'
   brandStrength: 0.7984300802927464
   lightness: 0.6082398311700672
   saturation: 0.6172033443581313
